@@ -1,4 +1,4 @@
-from Scrabbler.manage import manage
+from manage import manage
 
 #save all of the points values in a dictionary
 pointValues = {"a": 1, "b": 3, "c": 3, "d": 2, "e": 1, "f": 4, "g": 2, "h": 4, "i": 1, "j": 8, "k": 5, "l": 1,
